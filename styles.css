@@ -33,7 +33,7 @@ p {
     font-size: 20px;
 }
 
-.categoria-videos {
+.categoria-shitpost {
     display: flex;
     overflow-x: auto;
     gap: 10px;
@@ -45,12 +45,12 @@ p {
     margin-top: 50px;
 }
 
-.categoria-videos img {
+.categoria-shitpost img {
     opacity: 0.5;
     height: 200px;
 }
 
-.categoria-videos img:hover {
+.categoria-shitpost img:hover {
     opacity: 1.0;
     border: 3px solid green;
 }
