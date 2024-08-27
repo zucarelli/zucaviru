@@ -37,6 +37,7 @@ p {
     display: flex;
     overflow-x: auto;
     gap: 10px;
+    color: rgb(rgba(247, 105, 105, 0.63), green, blue)
 }
 
 .categoria {
