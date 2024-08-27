@@ -52,9 +52,9 @@ p {
 
 .categoria-shitpost img:hover {
     opacity: 1.0;
-    border: 3px solid green;
+    border: 3px solid red;
 }
 
 .categoria h2 {
-    color: rgb(42, 122, 228);
+    color: rgb(9, 34, 68);
 }
